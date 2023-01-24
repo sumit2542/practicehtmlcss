@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Calculator</title>
+</head>
+<body>
+    <table border="5 " width="25%" cellspacing="10" cellpading="5">
+        <tr>
+            <td>+</td>
+            <td>-</td>
+            <td>*</td>
+            <td>/</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>8</td>
+            <td>9</td>
+            <td>%</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>6</td>
+            <td>4</td>
+            <td>()</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>=</td>
+        </tr>
+        <tr>
+            <td>00</td>
+            <td>.</td>
+            <td>C</td>
+            <td>AC</td>
+        </tr>
+    </table>
+</body>
+</html>
